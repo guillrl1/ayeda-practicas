@@ -1,0 +1,13 @@
+Introduce el primer número: Introduce el segundo número: El MCD de 169 y 26 es: Antes de modulo 169 26
+La resta de 169 y 26 es: 143
+La resta de 169 y 26 es: 117
+La resta de 169 y 26 es: 91
+La resta de 169 y 26 es: 65
+La resta de 169 y 26 es: 39
+La resta de 169 y 26 es: 13
+Despues de modulo 13
+Antes de modulo 26 13
+La resta de 26 y 13 es: 13
+La resta de 26 y 13 es: 0
+Despues de modulo 0
+13
